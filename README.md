@@ -4,3 +4,5 @@ In collaboration with Prof. Christian Daul the Centre de Recherche en Automatiqu
 
 Goal: To investigate deep learning algorithms for automatically classifying in vivo kidney stones from endoscopy images
 
+
+
